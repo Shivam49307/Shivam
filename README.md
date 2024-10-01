@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on various Machine Learning, Deep Learning, Data Science projects.<br>🌱 I'm learning something new every single day.<br>🥅 2024 Goals: Sharpening logical, statistical, problem solving skills, Exploring LLMs 📚<br>⚡ Fun fact: Love Football.
+🔭 Currently working on various Machine Learning, Deep Learning, Data Science projects.<br>🌱 I'm learning something new every single day.<br>🥅 2024 Goals: Sharpening logical, statistical, problem solving skills, Exploring LLMs 📚<br>⚡ Fun fact: Love Football and Bike Riding.
 
 
 ## 🌐 Socials:
